@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "queen panel bed",
+        "price": 199.99,
+        "image": { "fields": { "file": { "url": "img/product1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "king panel bed",
+        "price": 129.99,
+        "image": { "fields": { "file": { "url": "img/product2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "single panel bed",
+        "price": 128.99,
+        "image": { "fields": { "file": { "url": "img/product3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "twin panel bed",
+        "price": 229.99,
+        "image": { "fields": { "file": { "url": "img/product4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "fridge",
+        "price": 521.99,
+        "image": { "fields": { "file": { "url": "img/product5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "dresser",
+        "price": 322.99,
+        "image": { "fields": { "file": { "url": "img/product6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "couch",
+        "price": 452.99,
+        "image": { "fields": { "file": { "url": "img/product7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "table",
+        "price": 333.99,
+        "image": { "fields": { "file": { "url": "img/product8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "table king",
+        "price": 311.99,
+        "image": { "fields": { "file": { "url": "img/product9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "king bed",
+        "price": 433.11,
+        "image": { "fields": { "file": { "url": "img/product10.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "old",
+        "price": 292.19,
+        "image": { "fields": { "file": { "url": "img/product11.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "new collection",
+        "price": 300.02,
+        "image": { "fields": { "file": { "url": "img/product12.png" } } }
+      }
+    }
+  ]
+}
